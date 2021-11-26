@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Welcome to my first Github site
 
-You can use the [editor on GitHub](https://github.com/DominikBreksa/DominikBreksa.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Dominik, and I have created this site for my university course. Enoy your stay here
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My favrite programing language is C++
 
-### Markdown
+Everyone konws about C++, here. :)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Example of a C++ code
+```c++
+#include <iostream>
 
-```markdown
-Syntax highlighted code block
+using namespace std;
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+int main ()
+{
+cout << "Hello World!";
+return 0;
+}
 ```
+Also don't remember that it is C++, not C++ :)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### I'm interested in Polish railways :)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DominikBreksa/DominikBreksa.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Here is a link to a interesting statistic, about Polish Railways](https://utk.gov.pl/pl/raporty-i-analizy/analizy-i-monitoring/statystyka-przewozow-pa/15772,Dane-podstawowe.html).
