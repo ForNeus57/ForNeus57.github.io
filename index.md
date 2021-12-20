@@ -33,6 +33,19 @@ Also don't remember that it is C++, not C++ :)
 * Projekt niestety nie został ukończony m.in. ponieważ dopiero uczyliśmy się jezyka C (Taki był cel jego wyboru - aby się czegoś nauczyć, rozwinąć się - projekt nie miał nam posłużyć za test umiejętności, ale jako sposób na samorozwój). Ale również z powodu, dużych wymagań pracy na studiach z zakresu innych przedmiotów. W samy założeniu projektu nie miało się znaleść jego ukończenie. Myślę, że stanowił on dobrą podstawę do nauki (jako pierwszy poważny projekt), dla osób, które przed rozpoczęciem studiów nie spotkały się z systemem kontroli wersji, który jest podstawą do późniejszej pracy w zawodzie.
 * Mogę dodać, że mi z kolegami współpraca przebiegała wyśmienicie i chce ich pochwailić - nie było problemów z mini, tak jak w szkole średniej tj. jedna osoba robi cały projekt, a reszta czeka na gotowe - każdy wzioł się za to poważnie. Z chłopakami zbudowaliśmy zdrową relację i raczej niezapomnimy jej skutków na długi czas. Ja byłbym chętny z nimi uczestniczyć w następnym projekcie np. na innych przedmiotach, w kolejnych semestrach nauki na AGH.
 #### Współuczestnicy projektu:
+<p align="center">
+Zdjęcia z projektu:
+</p>
+<p align="center">
+  <img src="https://github.com/AGH-Narzedzia-Informatyczne-2021-2022/Pisali-Hello-World-w-przedszkolu/blob/main/pictures/Menu.PNG" width="600" title="Menu_gŁówne">
+</p>
+<p align="center">
+  <img src="https://github.com/AGH-Narzedzia-Informatyczne-2021-2022/Pisali-Hello-World-w-przedszkolu/blob/main/pictures/console.png" width="600" title="Menu_gŁówne">
+</p>
+<p align="center">
+  <img src="https://github.com/AGH-Narzedzia-Informatyczne-2021-2022/Pisali-Hello-World-w-przedszkolu/blob/main/pictures/ship2_clean.PNG" width="600" title="Menu_gŁówne">
+</p>
+#### Współuczestnicy projektu:
 * Arkadiusz Paterak - [\[Link do strony\]](https://asgardianvoyager.github.io/)
 * Michał Duda - [\[Link do strony\]](https://m-adud.github.io/m-adud/)
 * Michał Dul - [\[Link do strony\]](https://dulmicha.github.io/)
