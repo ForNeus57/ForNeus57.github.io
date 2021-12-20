@@ -36,13 +36,13 @@ Also don't remember that it is C++, not C++ :)
 * 
 #### Zdjęcia z projektu:
 <p align="center">
-  <img src="https://github.com/AGH-Narzedzia-Informatyczne-2021-2022/Pisali-Hello-World-w-przedszkolu/blob/main/pictures/Menu.PNG" width="600" title="Menu_gŁówne">
+  <img src="https://github.com/AGH-Narzedzia-Informatyczne-2021-2022/Pisali-Hello-World-w-przedszkolu/blob/main/pictures/Menu.PNG" width="600" title="Menu_glowne">
 </p>
 <p align="center">
-  <img src="https://github.com/AGH-Narzedzia-Informatyczne-2021-2022/Pisali-Hello-World-w-przedszkolu/blob/main/pictures/console.png" width="600" title="Menu_gŁówne">
+  <img src="https://github.com/AGH-Narzedzia-Informatyczne-2021-2022/Pisali-Hello-World-w-przedszkolu/blob/main/pictures/console.png" width="600" title="Grid">
 </p>
 <p align="center">
-  <img src="https://github.com/AGH-Narzedzia-Informatyczne-2021-2022/Pisali-Hello-World-w-przedszkolu/blob/main/pictures/ship2_clean.PNG" width="600" title="Menu_gŁówne">
+  <img src="https://github.com/AGH-Narzedzia-Informatyczne-2021-2022/Pisali-Hello-World-w-przedszkolu/blob/main/pictures/ship2_clean.PNG" width="600" title="Logo">
 </p>
 
 #### Współuczestnicy projektu:
